@@ -55,15 +55,6 @@ My name is Brian and I'm a Full Stack Engineer who loves to use web technologies
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-        width="48"
-        height="48"
-        alt="Tailwind"
-      />
-      <br /><strong>Tailwind</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
         width="48"
         height="48"
@@ -109,14 +100,6 @@ My name is Brian and I'm a Full Stack Engineer who loves to use web technologies
       />
       <br /><strong>Firebase</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-        width="48"
-        height="48"
-        alt="MySQL"
-      />
-      <br /><strong>MySQL</strong>
     </td>
   </tr>
 </table>
